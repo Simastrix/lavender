@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<CMapTypes>
+  <archetypes>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="60" />
+      <flags value="0" />
+      <specialAttribute value="0" />
+      <bbMin x="-0.6023954" y="-0.575938" z="-0.44816014" />
+      <bbMax x="0.5788123" y="0.58196396" z="0.57467306" />
+      <bsCentre x="-0.011791557" y="0.003012985" z="0.06325646" />
+      <bsRadius value="0.9723909" />
+      <hdTextureDist value="40" />
+      <name>lavender</name>
+      <physicsDictionary>lavender</physicsDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>lavender</assetName>
+    </Item>
+  </archetypes>
+  <name>lavender</name>
+</CMapTypes>
